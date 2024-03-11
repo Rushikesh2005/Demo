@@ -1,4 +1,4 @@
 # Demo
 This is my First Git-Hub Ptoject
 <br>
-Author - Rushikesh Shinde
+Author - Rushikesh Shinde (student)
